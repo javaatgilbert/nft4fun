@@ -4,9 +4,9 @@
       "id": 0,
       "title": "hello",
         "description": "",
-        "external_url": "",
-        "image": "",
-        "name": "NFT 4 Fun""
+        "external_url": "localhost",
+        "image": "localhost",
+        "name": "NFT 4 Fun"
     }
   ],
   "profile": {
