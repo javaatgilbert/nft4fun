@@ -2,11 +2,10 @@
   "posts": [
     {
       "id": 0,
-      "title": "hello",
-        "description": "",
-        "external_url": "localhost",
-        "image": "localhost",
-        "name": "NFT 4 Fun"
+        "description": "Phx Mobile Meetup",
+        "external_url": "https://srininft.s3.amazonaws.com/phxmobile.png",
+        "image": "https://srininft.s3.amazonaws.com/phxmobile.png",
+        "name": "Phx Mobi NFT"
     }
   ],
   "profile": {
